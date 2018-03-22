@@ -41,18 +41,25 @@ Upon first launch of the wallet program, a private key and wallet.dat file conta
 
 Select the *Receive* tab in the Veggie Coin wallet program, click the *Request payment*, then at the bottom of the new tab which poped up click the *Copy Address* button.  You have now copied your public key, use this when people want to send you Veggie coins.
 
+![](/Images/receive-tab.png)
+
 ![](/Images/copy-button.png)
 
+### Encrypting your wallet
+
+For saftey it is highly recomended you encrypt your wallet, to do this:
+1. Within the wallet, navigate to the *Settings* tab at the top of the wallet.
+2. Click *Encrypt wallet...*
+3. Enter a secure passphrase you will not forget. **If you forget this password you will not be able to access your coins.**
 
 ### Exporting Keys
 
 In order to access your private key there's a few steps you will need to take.
 1. Have your VeggieCoin wallet open
-2. Unlock your wallet if it is locked. Unlock your wallet by clicking the *Settings* tab at the top of the wallet.
-![](/Images/Untick-staking.png)
-3. On the top bar of the wallet select: Help, then Debug window, and now within the popup click on the *Console* option at the very top.  You may now type `dumpprivkey <youreraaddress>`, the console will now print out your wallets private key.
+2. On the top bar of the wallet select: Help, then Debug window, and now within the popup click on the *Console* option at the very top.  You must now type `walletpassphrase <your_wallet_encryption_password> 9999` if you have encrypted your wallet.
 
-![](/Images/Debug-window.png)
+![](/Images/debug-button.png)
 
+3. Once your wallet is unlocked, type `dumpprivkey <youreraaddress>`, the console will now print out your wallets private key.
 4. Save your private key to a safe location where it cannot be accessed from the internet. NEVER show this key to anyone else, with this key anyone can have access to all your ERA.
-
+5. Once you have saved your private key to a secure location make sure you re-lock your wallet my typing into the console `walletlock`.
