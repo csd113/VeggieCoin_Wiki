@@ -10,4 +10,4 @@
 
 4. [VeggieCoin Website](https://www.veggiecoin.io/) :watermelon:
 
-5. [VeggieCoin Whitepaper](https://www.veggiecoin.io/VeggieWhitepaper.pdf)
+5. [VeggieCoin Whitepaper](https://www.veggiecoin.io/VeggieWhitepaper.pdf) :green_apple:
