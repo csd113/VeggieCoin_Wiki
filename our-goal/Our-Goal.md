@@ -22,7 +22,7 @@ Every VeggieCoin block mined donates 25% of the block reward to a special **Vegg
 
 :sunrise_over_mountains: **Transparency!** :sunrise_over_mountains:
 
-Many traditional charities operate with a veil of obscurity over how their funds are distributed. They are notorious for expending a large percentage of their donations on fat salaries for executives. Veggie operates on a public ledger, so anyone can see exactly where the Veggie fund is used. The Veggie blockchain is fully transparent and completely public, so any deviant behaviour is obvious to the community
+Many traditional charities operate with a veil of obscurity over how their funds are distributed. They are notorious for expending a large percentage of their donations on fat salaries for executives. Veggie operates on a public ledger, so anyone can see exactly where the Veggie fund is used. The Veggie blockchain is fully transparent and completely public, so any deviant behaviour is obvious to the community.
 
 :video_camera: :page_with_curl: **Public Ledger!** :page_with_curl: :video_camera:
 
