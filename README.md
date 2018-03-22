@@ -2,7 +2,7 @@
 
 ### Quick links
 
-1. [What We Are All About](https://github.com/csd113/VeggieCoin_Wiki/blob/master/our-goal/Our-Goal.md) :apple:
+1. [What We Are All About](/our-goal/Our-Goal.md) :apple:
 
 2. [Official VeggieCoin Block Explorer.](http://explorer.veggiecoin.io/) :strawberry:
 
