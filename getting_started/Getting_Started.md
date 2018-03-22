@@ -14,7 +14,7 @@ Mac: [Download.](https://www.veggiecoin.io/Veggie-Qt.dmg)
 
 ### Installing on Windows
 
-Simply [download](https://veggiecoin.io/Veggie-qt1.3.exe) the wallet from either the [Bitcoin talk ann here](https://bitcointalk.org/index.php?topic=2544075.0;all) or the [official veggiecoin website](https://www.veggiecoin.io/)
+[Download](https://veggiecoin.io/Veggie-qt1.3.exe) the wallet from either the [Bitcoin talk ann here](https://bitcointalk.org/index.php?topic=2544075.0;all) or the [official veggiecoin website](https://www.veggiecoin.io/)
 
 ### Installing on Mac
 
