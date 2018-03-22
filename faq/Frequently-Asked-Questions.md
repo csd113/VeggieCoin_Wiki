@@ -1,6 +1,11 @@
 # Frequently Asked Questions
 
 ## Basics
+
+- **Q: Whats VeggieCoin all about?**
+
+	- A: Take a look on our [what we're all about page!](/our-goal/Our-Goal.md)
+
 - **Q: What is the max supply cap for Veggie coin?**
 
 	- A: Veggie coin has a maximum supply of 25 million coins. (25,000,000)
