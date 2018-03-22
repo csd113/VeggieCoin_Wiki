@@ -4,7 +4,7 @@
 
 The most up-to date wallet release can be [found on the Bitcoin talk ann here.](https://bitcointalk.org/index.php?topic=2544075.0;all)
 
-Alternatley you can download directly form these links below.
+Alternately you can download directly from the links below.
 
 Windows: [Download.](https://veggiecoin.io/Veggie-qt1.3.exe)
 
@@ -39,7 +39,7 @@ Upon first launch of the wallet program, a private key and wallet.dat file conta
 
 ### Viewing Wallet Address
 
-Select the *Receive* tab in the Veggie Coin wallet program, click the *Request payment*, then at the bottom of the new tab which poped up click the *Copy Address* button.  You have now copied your public key, use this when people want to send you Veggie coins.
+Select the *Receive* tab in the Veggie Coin wallet program, click the *Request payment*, then at the bottom of the new tab which popped up click the *Copy Address* button.  You have now copied your public key, use this when people want to send you Veggie coins.
 
 ![](/Images/receive-tab.png)
 
@@ -47,7 +47,7 @@ Select the *Receive* tab in the Veggie Coin wallet program, click the *Request p
 
 ### Encrypting your wallet
 
-For saftey it is highly recomended you encrypt your wallet, to do this:
+For safety it is highly recommended you encrypt your wallet, to do this:
 1. Within the wallet, navigate to the *Settings* tab at the top of the wallet.
 2. Click *Encrypt wallet...*
 3. Enter a secure passphrase you will not forget. **If you forget this password you will not be able to access your coins.**
@@ -60,6 +60,7 @@ In order to access your private key there's a few steps you will need to take.
 
 ![](/Images/debug-button.png)
 
-3. Once your wallet is unlocked, type `dumpprivkey <youreraaddress>`, the console will now print out your wallets private key.
+3. Once your wallet is unlocked, type `dumpprivkey <your_address>`, the console will now print out your wallets private key.
 4. Save your private key to a safe location where it cannot be accessed from the internet. NEVER show this key to anyone else, with this key anyone can have access to all your ERA.
 5. Once you have saved your private key to a secure location make sure you re-lock your wallet my typing into the console `walletlock`.
+
