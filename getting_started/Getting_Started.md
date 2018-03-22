@@ -61,6 +61,6 @@ In order to access your private key there's a few steps you will need to take.
 ![](/Images/debug-button.png)
 
 3. Once your wallet is unlocked, type `dumpprivkey <your_address>`, the console will now print out your wallets private key.
-4. Save your private key to a safe location where it cannot be accessed from the internet. NEVER show this key to anyone else, with this key anyone can have access to all your Veggie coins.
-5. Once you have saved your private key to a secure location make sure you re-lock your wallet my typing into the console `walletlock`.
+4. Save your private key to a safe location where it cannot be accessed from the internet. **NEVER show this key to anyone else, with this key anyone can have access to all your Veggie coins.**
+5. Once you have saved your private key to a secure location make sure you re-lock your wallet by typing into the console `walletlock`.
 
