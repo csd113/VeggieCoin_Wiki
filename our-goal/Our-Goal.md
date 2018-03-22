@@ -1,4 +1,4 @@
-# :apple: :pineapple: What is Veggie coin all about? :banana: :strawberry:
+# :apple: :pineapple: What is VeggieCoin all about? :banana: :strawberry:
 
 Every year, 2.7 million dogs and cats are slaughtered at animal shelters, due to a lack of space to accommodate them, and a low number of adoptive homes.
 
