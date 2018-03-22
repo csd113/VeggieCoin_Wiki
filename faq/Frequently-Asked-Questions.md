@@ -4,7 +4,7 @@
 
 - **Q: Whats VeggieCoin all about?**
 
-	- A: Take a look on our [what we're all about page!](/our-goal/Our-Goal.md)
+	- A: Take a look on our [what we're all about page](/our-goal/Our-Goal.md)!
 
 - **Q: What is the max supply cap for Veggie coin?**
 
